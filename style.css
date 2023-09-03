@@ -2,7 +2,7 @@ body{
      background-color: #040D12;
 }
 .centered{
-     height: 100vh;
+     height: 70vh;
 }
 .btni{
      width: 200px;
@@ -22,3 +22,24 @@ button i {
      font-size: 55px;
      color: #93B1A6;
 }
+
+#locationInfo {
+     background-color: #183D3D;
+     color: #93B1A6;
+     padding: 10px;
+     border-radius: 5px;
+     font-size: 18px;
+     text-align: center;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+ }
+
+#locationInfoCountry, #locationInfoRegion, #locationInfoCity{
+     background-color: #183D3D;
+     color: #93B1A6;
+     padding: 10px;
+     border-radius: 5px;
+     font-size: 18px;
+     text-align: center;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+} 
+ 
